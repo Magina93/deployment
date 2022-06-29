@@ -1,4 +1,4 @@
-const bigButton = document.querySelector('')
+const bigButton = document.querySelector('#partying')
 const message = () => {
        alert('Reserve your spot!')
 }
